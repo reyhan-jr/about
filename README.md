@@ -1,7 +1,7 @@
 ## The Owner
 
 These Reyhan Jr. more about? 
-- [Reyhan Jr. Github aq](https://github.com/internet-owner)
+- [Reyhan Jr. Github ](https://github.com/internet-owner)
 -  [Reyhan Jr. Github Pages](https://github.com/organization-owner)
 - [Reyhan Jr. Instagram Pages](https://instagram.com/orgsowner)
 - [Reyhan Jr. Gitlab Pages](https://gitlab.com/internet-owner)
